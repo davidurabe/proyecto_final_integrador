@@ -1,18 +1,23 @@
 div {
-    display: inline
+    
+    background-color: black;
+
 }
+
 h2 {
     display: inline;
-    margin: 5px;
+
+}
+.logosredes{
+    float: right;
     
 
 }
-#redsolcial1{
-    float: right;
-    margin: 3px;
-}
-#redsocial2{
-    float: right;
-    margin: 3px;
 
+#logolinkedin{
+    width: 50px;
+    margin-left: 10px;
+}
+#logoGitHub{
+    width: 38px;
 }
