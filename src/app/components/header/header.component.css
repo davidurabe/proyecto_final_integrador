@@ -4,8 +4,9 @@ div {
 
 }
 
-h2 {
+p {
     display: inline;
+    color: white;
 
 }
 .logosredes{
@@ -17,6 +18,7 @@ h2 {
 #logolinkedin{
     width: 50px;
     margin-left: 10px;
+    
 }
 #logoGitHub{
     width: 38px;
